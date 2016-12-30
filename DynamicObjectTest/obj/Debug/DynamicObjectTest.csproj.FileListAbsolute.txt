@@ -1,0 +1,6 @@
+E:\mycode\DynamicObjectTest\DynamicObjectTest\bin\Debug\DynamicObjectTest.exe.config
+E:\mycode\DynamicObjectTest\DynamicObjectTest\bin\Debug\DynamicObjectTest.exe
+E:\mycode\DynamicObjectTest\DynamicObjectTest\bin\Debug\DynamicObjectTest.pdb
+E:\mycode\DynamicObjectTest\DynamicObjectTest\obj\Debug\DynamicObjectTest.csprojResolveAssemblyReference.cache
+E:\mycode\DynamicObjectTest\DynamicObjectTest\obj\Debug\DynamicObjectTest.exe
+E:\mycode\DynamicObjectTest\DynamicObjectTest\obj\Debug\DynamicObjectTest.pdb
